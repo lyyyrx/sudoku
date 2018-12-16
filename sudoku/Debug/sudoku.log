@@ -1,1 +1,4 @@
-﻿  sudoku.vcxproj -> C:\Users\yrx\source\repos\sudoku\Debug\sudoku.exe
+﻿  stdafx.cpp
+  sudoku.cpp
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
+  sudoku.vcxproj -> C:\Users\yrx\source\repos\sudoku\Debug\sudoku.exe
